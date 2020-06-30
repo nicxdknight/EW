@@ -1,0 +1,22 @@
+a {
+    color: white;
+	text-decoration: none;
+}
+
+table tr th{
+    text-align: center;
+}
+table tr td{
+    text-align: center;
+}
+
+th{
+    padding: 6px;
+    margin: 2px;
+    
+}
+table,td{
+	border : 10px solid white;
+	padding: 10px;
+	margin: 10px;
+}
